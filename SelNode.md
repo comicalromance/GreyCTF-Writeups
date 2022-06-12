@@ -1,0 +1,1 @@
+We are given access to the challenge server (http://challs.nusgreyhats.org:12323). Visiting the website, we are greeted with the landing page of a service known as Selenium Standalone. Snooping around the landing page leads us to the 
